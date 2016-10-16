@@ -1,0 +1,36 @@
+
+
+#brandimg {
+   width: 30px;
+   margin: 0 20px;
+}
+
+
+
+section{
+    margin: 20px 0;
+    padding:20px;
+    border: 3px solid gray;
+    text-align: center;
+    font-family: "Helvetica Neue";
+    background-color: #B9DEF3;
+    border-radius: 20px;
+    
+}
+
+.container-fluid .form-control, .container-fluid .btn {
+    background-color: #F0E636 ;
+}
+
+#lastname {
+    font-weight: bolder;
+}
+
+p {
+    font-family: "Helvetica Neue";
+    font-weight: bold;
+}
+
+#happycat{
+    width: 70%
+}
